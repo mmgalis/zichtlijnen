@@ -1,0 +1,1 @@
+import{cx as f,cy as o,cz as t,cA as $,cB as i,cC as m,c7 as a}from"./index-CY8jQoH7.js";function g(n){return t(n)??$(n)}function h(n,c){return f(n,c)??o(n,c)}function p(n,c,u){return r[0]=n[0],r[1]=n[1],r[2]=n.length===3?n[2]:0,s[0]=c[0],s[1]=c[1],s[2]=c.length===3?c[2]:0,i(r,s,u)??m(r,s,u)}const r=a(),s=a();export{g as c,h as m,p as u};
